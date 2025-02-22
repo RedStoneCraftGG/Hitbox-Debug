@@ -1,0 +1,6 @@
+name: HitboxDebug
+version: 1.0.0
+main: HitboxDebug\main
+api: 5.0.0
+description: Displays bounding box size.
+author: RedStoneCraftGG
